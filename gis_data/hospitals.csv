@@ -1,0 +1,9 @@
+loc;long;lat;alt;class
+HEF;9.71345;50.87573;Hospital Bad Hersfeld;Index Hospital
+APD;11.26580;50.89012;Hospital Bad Berka;Neighbouring Hospitals (Other)
+EF;11.01048;50.99336;Hospital Erfurt;Neighbouring Hospitals (Other)
+GI;8.66635;50.57467;University Hospital Giessen;Neighbouring Hospitals (Hesse)
+GOE;9.94221;51.55036;University Hospital Goettingen;Neighbouring Hospitals (Other)
+FD;9.70461;50.54726;Municipal Hospital Fulda;Neighbouring Hospitals (Hesse)
+MR;8.80840;50.81474;University Hospital Marburg;Neighbouring Hospitals (Hesse)
+KS;9.50977;51.32905;Municipal Hospital Kassel;Neighbouring Hospitals (Hesse)

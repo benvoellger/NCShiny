@@ -1,0 +1,10 @@
+name: ncshiny
+title:
+username: nc77
+account: nc77
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12186864
+bundleId: 8746297
+url: https://nc77.shinyapps.io/ncshiny/
+version: 1
